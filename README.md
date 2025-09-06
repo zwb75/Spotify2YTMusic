@@ -111,33 +111,7 @@
 
 ## 🚀 Quick Start (Recommended)
 
-Skip the manual installation! Use these one-liner commands to automatically download, set up, and launch the app:
-
-#### **Windows (PowerShell):**
-```powershell
-iwr -useb https://raw.githubusercontent.com/zwb75a4x/Spotify2YoutubeMusic/master/S2YM.bat -OutFile S2YM.bat; ./S2YM.bat
-```
-
-#### **macOS/Linux:**
-```bash
-curl -O https://raw.githubusercontent.com/zwb75a4x/Spotify2YoutubeMusic/master/S2YM.sh && bash S2YM.sh
-```
-
-**What these commands do:**
-- Download the setup script for your platform
-- Check for Python 3.8+ and Git
-- Clone or update the repository  
-- Set up a virtual environment
-- Install all dependencies
-- Launch the app automatically
-
-**How to run:**
-- **Windows:** Open PowerShell, paste the command, and press Enter
-- **macOS/Linux:** Open Terminal, paste the command, and press Enter
-
----
-
-## Installation (Manual)
+#### Installation (Manual)
 
 ### 1. Clone the Repository
 
