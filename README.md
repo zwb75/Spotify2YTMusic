@@ -13,13 +13,6 @@
 
 </p>
 
-### ✨ New: Easy Setup Scripts
-
-- **S2YM.bat** (Windows) and **S2YM.sh** (macOS/Linux) now provide a one-step setup and launch experience.
-- No need to manually clone the repo or install dependencies—just run the script!
-- The scripts check for Python 3.8+, Git, set up a virtual environment, install all requirements, and launch the app.
-- ASCII art and clear progress messages make the setup process friendlier and more visual.
-
 ---
 
 ## Table of Contents
