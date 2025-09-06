@@ -1,4 +1,4 @@
-# Spotify ➡️ YouTube Music Playlist Copier
+# Spotify ➡️ YTMusic
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-v3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
