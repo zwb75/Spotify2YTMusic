@@ -116,7 +116,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mahdi-y/Spotify2YTMusic.git
+git https://github.com/zwb75a4x/Spotify2YTMusic.git
 cd Spotify2YTMusic
 ```
 
